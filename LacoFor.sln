@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacoFor", "LacoFor\LacoFor.csproj", "{603A954F-24F5-4EC0-A56A-E6E8874CED18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603A954F-24F5-4EC0-A56A-E6E8874CED18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603A954F-24F5-4EC0-A56A-E6E8874CED18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603A954F-24F5-4EC0-A56A-E6E8874CED18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603A954F-24F5-4EC0-A56A-E6E8874CED18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
